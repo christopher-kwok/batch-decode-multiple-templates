@@ -1,4 +1,6 @@
-# A Python application to decode barcodes from images within a specified folder using different settings and templates.
+# Batch Decode using Multiple Templates Python App
+
+A Python application to decode barcodes from images within a specified folder using different settings and templates.
 
 ## Overview
 This application attempts to decode barcodes from images using a two-step approach:
