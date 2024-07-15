@@ -21,13 +21,13 @@ This application attempts to decode barcodes from images using a two-step approa
 1. Clone the repository:
 
 ```
-$ git clone https://github.com/christopher-kwok/batch-decode-multiple-templates.git
-$ cd batch-decode-multiple-templates
+git clone https://github.com/christopher-kwok/batch-decode-multiple-templates.git
+cd batch-decode-multiple-templates
 ```
 2. Install the required dependencies:
 
 ```
-$ pip install dbr
+pip install dbr
 ```
 3. Obtain a trial license from Dynamsoft and replace the license string in the script.
 
@@ -36,5 +36,5 @@ $ pip install dbr
 2. Customize the JSON template as needed for your specific barcode decoding requirements.
 3. Run the script:
 ```
-$ python batch-decode-multiple-templates.py
+python batch-decode-multiple-templates.py
 ```
